@@ -24,7 +24,7 @@ In the utils.ts file, you will find:
 
 ## Review
 
-Add a table and by default display all the area. Add 2 checkboxes to filter between the types of filter. 
+Added a table to display the results and by default display all results. Add 2 checkboxes to filter between the types of filter. 
 
 Their are 5 files to mention. 
 
