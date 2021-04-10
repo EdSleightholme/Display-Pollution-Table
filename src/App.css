@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 20rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.ZephyrTableWrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.checkboxText{
+  font-size: 1rem;
+  padding:1rem
+}
+
+.ZephyrTable{
+  width:80%;
+  margin: 0 auto;
+  border-radius: 1rem;
+}
+
+
+.ZephyrTableHeaderCell{
+ padding:1rem;
+ font-size: 2rem;
+ display: "table-cell";
+ width:10rem;
+}
+
+.ZephyrRow{
+  width:80%;
+  margin: 0 auto;
+  border-radius: 1rem;
+}
